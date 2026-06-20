@@ -123,6 +123,40 @@ GitHub: https://github.com/MZ22
 
 ---
 
+## Sources
+
+### Project Organizer
+
+Finance & Economics Club, IIT Guwahati
+https://finnecoiitg.github.io/
+
+### Data Sources
+
+https://sbi.bank.in/web/investor-relations
+
+https://pnb.bank.in/financials-current.html
+
+https://www.hdfcbank.com/personal/about-us/investor-relations
+
+https://www.icicibank.com/aboutus/investor-relations.page
+
+https://dbie.rbi.org.in
+
+https://www.bseindia.com
+
+https://www.nseindia.com
+
+### References
+
+https://www.bis.org/publ/work527.htm
+
+https://www.imf.org/en/Publications/Manuals-Guides/Issues/2016/12/31/Financial-Sector-Assessment-A-Handbook-19709
+
+https://corporatefinanceinstitute.com/resources/excel/financial-modeling
+
+https://www.investopedia.com/terms/s/stresstesting.asp
+
+
 ## Disclaimer
 
 This project is intended for academic and educational purposes only. The stress scenarios are past data-based and should not be interpreted as investment advice or regulatory assessments.
